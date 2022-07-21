@@ -1,0 +1,17 @@
+.setfacelogin {
+  width: 260px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+  border: 0px;
+  border-radius: 5px;
+  background-color: #f4f4f6;
+}
+.setfacelogin:hover {
+  opacity: 10;
+  width: 260px;
+  height: 40px;
+  color: rgb(0, 0, 0);
+  border: 0px;
+  border-radius: 5px;
+  background-color: rgba(57, 76, 96, 0.15);
+}
